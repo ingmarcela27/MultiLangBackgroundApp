@@ -78,15 +78,16 @@ El área del personaje no se distorsiona al cambiar tamaño.
 ## 📱 Capturas de pantalla
 
 ### Pantalla 1
-![Pantalla 1](images/main_screen.png)
+![Main_Screen](images/main_screen.png)
 
 ### Pantalla 2
-![Pantalla 2](images/welcome_screen.png)
+![MainScreen](images/welcome_screen.png)
 
 ---
 
 ## 📦 APK listo para instalar  
 Puedes descargar el APK desde la sección de [Releases](https://github.com/ingmarcela27/MultiLangBackgroundApp/releases) del repositorio.
+
 
 
 
