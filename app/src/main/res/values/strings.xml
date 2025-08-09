@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mi Aplicación Android</string>
+    <string name="welcome_message">Bienvenido</string>
+    <string name="enter_button">Entrar</string>
+    <string name="welcome_app_message">Bienvenido a mi aplicación</string>
+    <string name="back_button">Volver</string>
+</resources>
